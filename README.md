@@ -1,1 +1,1 @@
-# EigenFaces-and-Fisherfaces
+# Eigenfaces-and-Fisher faces
